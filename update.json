@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "vstr": "1.60.94", 
             "vint": 16094, 
             "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.94/DrawingApp_v1.60.94.zip", 
@@ -45,26 +46,32 @@
             "vint": 16080, 
             "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.80/DrawingApp_v1.60.80.zip", 
 >>>>>>> b898993 (Update to v1.60.80)
+=======
+            "vstr": "1.60.82", 
+            "vint": 16082, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.82/DrawingApp_v1.60.82.zip", 
+>>>>>>> be4c20c (1.60.82)
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.drawingapp", 
-            "pathPage": "https://software.eazeye.com/?_t=202606301544"
+            "pathPage": "https://software.eazeye.com/?_t=202607031409"
         },
 		{
 			"packageName": "com.txkj.readingapp",
-            "vstr": "1.60.80", 
-            "vint": 16080, 
-            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.80/ReadingApp_v1.60.80.zip", 
+            "vstr": "1.60.82", 
+            "vint": 16082, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.82/ReadingApp_v1.60.82.zip", 
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.readingapp", 
-            "pathPage": "https://software.eazeye.com/?_t=202606301544"
+            "pathPage": "https://software.eazeye.com/?_t=202607031409"
         },
 		{
 			"packageName": "com.txkj.contentbrowser2",
-            "vstr": "1.60.80", 
-            "vint": 16080, 
-            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.80/FileManager_v1.60.80.zip", 
+            "vstr": "1.60.82", 
+            "vint": 16082, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.82/FileManager_v1.60.82.zip", 
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.contentbrowser2", 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "pathPage": "https://software.eazeye.com/?_t=202606231624"
@@ -75,6 +82,9 @@
 =======
             "pathPage": "https://software.eazeye.com/?_t=202606301544"
 >>>>>>> b898993 (Update to v1.60.80)
+=======
+            "pathPage": "https://software.eazeye.com/?_t=202607031409"
+>>>>>>> be4c20c (1.60.82)
         }
     ]
 }
