@@ -4,30 +4,30 @@
     "data": [
         {
 			"packageName": "com.txkj.drawingapp",
-            "vstr": "1.60.90", 
-            "vint": 16090, 
-            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.90/DrawingApp_v1.60.90.zip", 
+            "vstr": "1.60.92", 
+            "vint": 16092, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.92/DrawingApp_v1.60.92.zip", 
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.drawingapp", 
-            "pathPage": "https://software.eazeye.com/?_t=202607171758"
+            "pathPage": "https://software.eazeye.com/?_t=202607211450"
         },
 		{
 			"packageName": "com.txkj.readingapp",
-            "vstr": "1.60.90", 
-            "vint": 16090, 
-            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.90/ReadingApp_v1.60.90.zip", 
+            "vstr": "1.60.92", 
+            "vint": 16092, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.92/ReadingApp_v1.60.92.zip", 
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.readingapp", 
-            "pathPage": "https://software.eazeye.com/?_t=202607171758"
+            "pathPage": "https://software.eazeye.com/?_t=202607211450"
         },
 		{
 			"packageName": "com.txkj.contentbrowser2",
-            "vstr": "1.60.90", 
-            "vint": 16090, 
-            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.90/FileManager_v1.60.90.zip", 
+            "vstr": "1.60.92", 
+            "vint": 16092, 
+            "path": "https://github.com/Eazeye-dev/txkjnote2/releases/download/v1.60.92/FileManager_v1.60.92.zip", 
             "status": 1, 
             "note": "txkjnote2 update info com.txkj.contentbrowser2", 
-            "pathPage": "https://software.eazeye.com/?_t=202607171758"
+            "pathPage": "https://software.eazeye.com/?_t=202607211450"
         }
     ]
 }
