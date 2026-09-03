@@ -1,0 +1,33 @@
+{
+    "code": 0, 
+    "message": "success", 
+    "data": [
+        {
+			"packageName": "com.txkj.drawingapp",
+            "vstr": "1.61.6", 
+            "vint": 16106, 
+            "path": "http://192.168.0.100:8080/DrawingApp_v1.60.94.apk", 
+            "status": 0, 
+            "note": "txkjnote2 update info com.txkj.drawingapp", 
+            "pathPage": "https://software.eazeye.com/?_t=202607241340"
+        },
+		{
+			"packageName": "com.txkj.readingapp",
+            "vstr": "1.61.6", 
+            "vint": 16106, 
+            "path": "http://192.168.0.100:8080/ReadingApp_v1.60.94.apk", 
+            "status": 0, 
+            "note": "txkjnote2 update info com.txkj.readingapp", 
+            "pathPage": "https://software.eazeye.com/?_t=202607241340"
+        },
+		{
+			"packageName": "com.txkj.contentbrowser2",
+            "vstr": "1.61.6", 
+            "vint": 16106, 
+            "path": "http://192.168.0.100:8080/FileManager_v1.61.6.apk", 
+            "status": 1, 
+            "note": "txkjnote2 update info com.txkj.contentbrowser2", 
+            "pathPage": "https://software.eazeye.com/?_t=202607241340"
+        }
+    ]
+}
